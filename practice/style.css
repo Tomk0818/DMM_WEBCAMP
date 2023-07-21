@@ -1,0 +1,46 @@
+h1 {
+	font-size: 40px;
+	color: red;
+    }
+
+ li {
+	color: green;
+    }
+
+#list_id 
+	{
+	color: blue;
+	}
+
+/*idに場合は最初に＃をつける*/
+    
+.list_class 
+	{
+	color: red;
+	}
+
+*
+{
+	margin:0;
+	padding:0;
+}
+
+.box
+{
+	background-color: red;
+	width: auto;
+	height: auto;
+	border: 3px solid #000;
+	padding: auto;
+	margin: auto;
+
+}
+
+.box-txt
+{
+	font-size: 30px;
+	color: blue;
+	font-weight: bold;
+	text-align: center;
+}
+
